@@ -1,8 +1,8 @@
 {
-    "name": "ezsystems/ezplatform-solr-search-engine",
+    "name": "yclacti/ezplatform-solr-search-engine",
     "description": "Solr search engine implementation for eZ Platform",
     "license": "GPL-2.0",
-    "homepage": "https://github.com/ezsystems/ezplatform-solr-search-engine",
+    "homepage": "https://github.com/yclacti/ezplatform-solr-search-engine",
     "authors": [
         {
             "name": "eZ Systems dev team",
